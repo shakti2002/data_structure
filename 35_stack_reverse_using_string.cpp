@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+   
    string str="shakti";
    stack<char>s;
 
@@ -19,5 +20,4 @@ int main(){
    s.pop();}
    cout<<"answer is "<<ans<<endl;
    return 0;
-
 }
